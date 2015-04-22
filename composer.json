@@ -1,0 +1,11 @@
+{
+	"require":{
+		"victorsnow/smallphp":"dev-master"
+	},
+	"repositories" : [
+		{
+			"type": "vcs",
+			"url":"https://github.com/VictorSnow/SmallPhp.git"
+		}
+	]
+}
