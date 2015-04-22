@@ -7,5 +7,10 @@
 			"type": "vcs",
 			"url":"https://github.com/VictorSnow/SmallPhp.git"
 		}
-	]
+	],
+    "autoload": {
+        "psr-0":{
+            "App":"./"
+        }
+    }
 }
